@@ -44,3 +44,4 @@ void chk(int chkN,int chkArr[])
 		}			
 	}
 	printf(" 버블정렬 성공"); // 반복문이 모두 정상 수행되면 "성공" 출력
+}
